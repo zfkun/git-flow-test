@@ -2,4 +2,4 @@
 
 just test for git-flow
 
-in branch myfeature
+in branch my2
