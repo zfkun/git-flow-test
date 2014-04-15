@@ -1,0 +1,11 @@
+{
+    "name": "git-flow-test",
+    "description": "git flow test",
+    "version": "0.1.0",
+    "author": "zfkun <zfkun@msn.com>",
+    "contributors": [],
+    "scripts": {
+        "test": "./node_modules/.bin/phantomjs test/run-jasmine.js test/runner.html"
+    },
+    "repository": "git://github.com/zfkun/git-flow-test.git"
+}
